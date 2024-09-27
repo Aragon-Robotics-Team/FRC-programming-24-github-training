@@ -1,1 +1,3 @@
 Hello my name is Claire.
+I'm on Aragon Robotics.
+I know a bit about how to use git.
