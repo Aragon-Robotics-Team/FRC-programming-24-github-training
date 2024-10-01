@@ -1,5 +1,5 @@
-# FRC-programming-24-github-training
-
+# frc-programming-24-github-training
+ 
 Github practice!   
 (Yes the title should be software)   
     
