@@ -1,10 +1,11 @@
 # frc-programming-24-github-training
  
-Github practice!   
-(Yes the title should be software)   
+Github practice!      
     
+What to do:
+- Clone the project, and make a branch with your name
 
-Fork this repo, make a separate branch with your name, and make a separate folder with your name. In that folder, have a file that generates the first n fibonacci numbers.   
+In that branch:
+-> Make a folder with your name
+-> Put 2 `.java` files in there such that one solves FizzBuzz and the other generates the first n fibonacci numbers.
 
-
-If you have time, you can also attempt fizz buzz.
